@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.db
+.env
+.env.production
+migration_report_*.json
